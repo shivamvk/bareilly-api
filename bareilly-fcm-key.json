@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bareilly-project",
+  "private_key_id": "d605a35abbbb11aec760c37b28864281a236962a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzpPl1UzNRqwH+\nPmbALQEmkqJr7ukE0q18zTDSlS58hp4kUf3FwIUljGZHIE+1Pdq08nHMK2klX7Pt\nfn8lT86gUxvtLCM4qwK76YTSrs9PKI3joWznbc7D8Ts7wgk2rYpeg+fUNWoVXkbF\nCQeFNRBJ1gIsqEGMMbNNnH52ref/5913HNYjqk0O52j2DKXMdZfWnIvA9cRTarYW\nw341Q7sql+ygzFf2qNvJyA9RrwxPWE7mzaqMprgcfoi8UQyrBky9cnroAOIJbBOH\nftGhfao8BGxoDm9ZHXqguXNVONisj3xBhFHFZtQdIXGoSZSKuaOjxD0QGw13crX8\ngW4wvFDVAgMBAAECggEAP/mRaQnfLcdTp2I7n1anoT/5HazwSOpqJBbCu0urSWd7\na/3S/Ripkgyk49GK8UV83JG2mvoesNObNQmmZ/g64neWa2kbhfPIvnjT91+PrmYH\n2bfEG8rMJpWC/a4FL/avXydkaPs4szFmzIaBqhuSmGjhT1wAM9gDPbFsjAE0rLoh\nseGOdqxVCwMX546fwcIhUTysQehRQvR98dTzKejZhUUyhdPkdPxrC+dEH7EjqlEE\nw5zMMqnFCniq44iElhcU684+X7AWjMoPYHfHT7XOMdhs/cwnpMtPdLpJtBGQbTBG\ndJAaueBJwuNMkwFfa7+e96TaFpZ/+m6vQak2fzY2hQKBgQDooRfEkpo9AfOthU4N\nLKNmSmuNgHYO1MIkWpTwRUxVl142YxbHRc2tr8m6mbp01Pyvv0wbfiWY495/++8H\n9bVKvi6t2VOoL8jlIXFrVZEzR5Cp6Y3pNrmZMVZRm/TDZn3hrXJZ2x3gs+m5onYC\nrO/3AhJUHapIntWwfoD0d0rMwwKBgQDFsS8WD7MKKuUzEdClt4D9ruspHIxELzbj\n3ZrWkCdyO1MpZA/9ExU0WacbZXIMbAOj7gYKqJrboQduyq2XhL1KlCRfn2pYyI1o\nC3ALS1oe1e4mqJDOx/E13HxBpl0kLAg9iwlo3Fq/AuOum7RIPiBBANFtGAj0Twkt\nSHgZXr7yhwKBgQCxRDBsZpqJ6rbZfz9e4qkRBZy3kzBjVNUsBqp//Q6SGmp8Xz24\nVATLWa0LOKHQ7YwwEEHaoWHdA6dFN6GKGz4u2oWPjJAnFWKs17Mp62ZeASbHk2XE\nVSNRDTuNrJ3zWGKMWjNNLZ+y3uY3wwjSOR4Sx81Xs9NSy1Ziy8NQhqbFKQKBgCTD\nFSl6E+YxIdwEVRNr8125WFuVxnOrf/6RqAh8WAmDBKzuwZZjJQ9OGKgcjj/HGkoy\nqgbzYZCz+ijdIbjKY1TqBXWOtHz8FmehsN04zvJq/9VKhVsejTlh3e1rXWirk4C2\nSTKpv2pDxEklBTpl6yOLXmZ2ELw1slQsZMD7AHEjAoGBAI8uzS0AGii45/2Py65t\nIrlKph3idOPPTR3EbFX9RVJ58H0s/6a61YDLQcycj6TNWaYqfSN2p9Ay7cJiLrOj\nGH0KzPG87tVUkIlduMGFjLtzJ35P44jJvPFb/oJOTTtx+T2sgQrSG7xffUuitvoS\nKkSx88mnVaQKXVIz05KEdXCs\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ls7km@bareilly-project.iam.gserviceaccount.com",
+  "client_id": "111122083644728944859",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ls7km%40bareilly-project.iam.gserviceaccount.com"
+}
